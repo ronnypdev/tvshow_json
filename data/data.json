@@ -1,0 +1,27 @@
+[  
+   {  
+      "title":"The Warlking Dead",
+      "genres":[  
+         "drama",
+         "thriller"
+      ],
+      "description":"This is a show on AMC.",
+      "startTile":"2014-03-21 04:00"
+   },
+   {  
+      "title":"Portlandia",
+      "genres":[  
+         "comedy"
+      ],
+      "description":"This is a show on IFC.",
+      "startTile":"2014-03-24 01:00"
+   },
+   {  
+      "title":"Rectify",
+      "genres":[  
+         "drama"
+      ],
+      "description":"This is a show on Sundance.",
+      "startTile":"2015-04-01 14:00"
+   }
+]
